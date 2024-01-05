@@ -1,0 +1,160 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}	
+
+/* #above_footer{ */
+	/* height:40vh; */
+	/* background-color:rgba(0,0,0,0.9) */
+/* } */
+
+.above_footer_container{
+	width:90%;
+	margin:auto;
+}
+
+/* .above_footer_row{ */
+	/* display:flex; */
+/* } */
+
+/* .above_col_1{ */
+	/* width:20%; */
+	/* padding:10px; */
+/* } */
+
+/* .above_col_2{ */
+	/* width:40%; */
+	/* padding:10px; */
+/* } */
+
+.above_box_1{
+	color:#ffffff;
+}
+
+.box_1_address h1{
+	font-family: 'Poppins', sans-serif;
+	padding-bottom:20px;
+	font-size:2rem;
+}	
+	
+.box_1_address i{
+	color:#ffc451;
+	font-size:0.3rem;
+}
+
+.box_1_address span{
+	font-family: 'Lato', sans-serif;
+}	
+
+.box_1_contact{
+	padding:10px 0 10px 0;
+}
+	
+.box_1_contact h3{
+	display:inline-block;
+	font-family: 'Poppins', sans-serif;
+	font-size:0.9rem;
+}	
+	
+.above_box_2{
+	color:#ffffff;
+	font-family: 'Roboto', sans-serif;
+	padding:20px;
+}
+
+.above_box_2 h2{
+	font-size:1rem;
+	padding-bottom:10px;
+}	
+	
+.above_box_2 span{
+	font-size:0.9rem;
+}
+
+.above_box_2 i{
+	color:#ffc451;
+	padding-right:5px;
+}	
+
+.above_box_3{
+	color:#ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+
+.above_box_3 h3,p{
+	padding-bottom:15px;
+}	
+
+.above_box_btn{
+	width:50%;
+	
+	position:relative;
+}
+	
+.above_box_btn input{
+	border: none;
+	padding:12px 35px 10px;
+}
+
+.above_box_btn button{
+	border: none;
+	background-color: #ffc451;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+	padding:8px 16px 10px;
+	
+	position:absolute;
+	bottom:0%;
+	left:90%;
+}
+
+.box_1_icons{
+	display:flex;
+	padding-top:10px;
+}
+
+.icon{
+	background-color:rgb(41, 41, 41);
+	color:#ffffff;
+	font-size:20px;
+	border-radius:3px;
+	padding:8px;
+	margin:3px;
+}
+
+.icon:hover{
+	background-color:#ffc451;
+	color:#000000;
+}	
+/*----footer_2--*/
+
+#below_footer{
+	height:15vh;
+	background-color:#000000;
+	color:#ffffff;
+}	
+
+/* .below_footer_container{ */
+	/* width:16%; */
+	/* margin:auto; */
+/* } */
+
+.below_footer_content{
+	padding-top:40px;
+	padding-left:20px;
+}
+	
+.below_footer_content h5{
+	font-family: 'Roboto', sans-serif;
+}
+
+.below_footer_content a{
+	text-decoration:none;
+	color:#ffc451;
+}	
+	
+	
+
+
+	
